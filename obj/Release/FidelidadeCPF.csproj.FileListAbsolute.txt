@@ -1,0 +1,75 @@
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF - Copy\FidelidadeCPF\bin\Release\FidelidadeCPF.exe.config
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF - Copy\FidelidadeCPF\obj\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF - Copy\FidelidadeCPF\obj\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe.config
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csprojResolveAssemblyReference.cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFlashScreen.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMessageBox.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMain.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFidelidade.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmHelp.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.Properties.Resources.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csproj.GenerateResource.Cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe.config
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csprojResolveAssemblyReference.cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFlashScreen.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMessageBox.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMain.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFidelidade.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmHelp.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.Properties.Resources.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\OLD\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csproj.GenerateResource.Cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\BACKUP\FidelidadeCPF\FidelidadeCPF\bin\Release\Gma.UserActivityMonitor.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe.config
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.dll
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\Gma.UserActivityMonitor.dll
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFlashScreen.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMessageBox.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMain.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFidelidade.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmHelp.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.Properties.Resources.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csproj.GenerateResource.Cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe.config
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.pdb
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.dll
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\Gma.UserActivityMonitor.dll
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.pdb
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csprojResolveAssemblyReference.cache
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFlashScreen.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMessageBox.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMain.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFidelidade.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmHelp.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.Properties.Resources.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csproj.GenerateResource.Cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe.config
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.exe
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.pdb
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.exe
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\FidelidadeCPF.pdb
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.dll
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\Gma.UserActivityMonitor.dll
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Release\AvencaLib.pdb
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFlashScreen.resources
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMessageBox.resources
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmMain.resources
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmFidelidade.resources
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.frmHelp.resources
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.Properties.Resources.resources
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Release\FidelidadeCPF.csprojResolveAssemblyReference.cache

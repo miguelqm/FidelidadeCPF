@@ -1,0 +1,11 @@
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Test\FidelidadeCPF.exe.config
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Test\FidelidadeCPF.exe
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Test\FidelidadeCPF.pdb
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\bin\Test\Gma.UserActivityMonitor.dll
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.frmMessageBox.resources
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.frmMain.resources
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.frmFidelidade.resources
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.Properties.Resources.resources
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.csproj.GenerateResource.Cache
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.exe
+g:\new folder\my documents\visual studio 2013\Projects\FidelidadeCPF\FidelidadeCPF\obj\Test\FidelidadeCPF.pdb

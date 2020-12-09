@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FidelidadeCPF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DESCONTO_FIDELIDADE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{F9};{DIVIDE};{DOWN};{DOWN};{DOWN};{ENTER};{ADD}</Value>
+    </Setting>
+    <Setting Name="AvencaConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=MQM-HOME\SQLEXPRESS;Initial Catalog=Avenca;Persist Security Info=False;User ID=miguelqm;Password=migSql@#;Connection Timeout=5&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=MQM-HOME\SQLEXPRESS;Initial Catalog=Avenca;Persist Security Info=False;User ID=miguelqm;Password=migSql@#;Connection Timeout=5</Value>
+    </Setting>
+    <Setting Name="AvencaLibConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=MQM-HOME\SQLEXPRESS;Initial Catalog=Avenca;Persist Security Info=False;User ID=miguelqm;Password=***;Connection Timeout=5&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=MQM-HOME\SQLEXPRESS;Initial Catalog=Avenca;Persist Security Info=False;User ID=miguelqm;Password=***;Connection Timeout=5</Value>
+    </Setting>
+    <Setting Name="PRTSCRPATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\Temp</Value>
+    </Setting>
+    <Setting Name="AvencaConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=MQM-HOME\SQLEXPRESS;Initial Catalog=Avenca;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=MQM-HOME\SQLEXPRESS;Initial Catalog=Avenca;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="f" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000;{F9};{DIVIDE};{DOWN};{DOWN};{ENTER};{ADD}</Value>
+    </Setting>
+    <Setting Name="g" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000;{F9};{DIVIDE};{DOWN};{ENTER};{ADD}</Value>
+    </Setting>
+    <Setting Name="SPACE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100;{F9};{DIVIDE};{ENTER};{ADD}</Value>
+    </Setting>
+    <Setting Name="c" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100{F9};{DIVIDE};{DOWN};{DOWN};{DOWN};{ENTER};{ADD}</Value>
+    </Setting>
+    <Setting Name="t" Type="System.String" Scope="User">
+      <Value Profile="(Default)">800;{F6};T;{ENTER}</Value>
+    </Setting>
+    <Setting Name="h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">800;{F6};H;{ENTER}</Value>
+    </Setting>
+    <Setting Name="b" Type="System.String" Scope="User">
+      <Value Profile="(Default)">800;{F6};B;{ENTER}</Value>
+    </Setting>
+    <Setting Name="p" Type="System.String" Scope="User">
+      <Value Profile="(Default)">800;{F6};P;{ENTER}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
